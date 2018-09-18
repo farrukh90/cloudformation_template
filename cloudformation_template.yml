@@ -1,0 +1,21 @@
+AWSTemplateFormatVersion: "Version Date"
+
+Description:
+  String
+
+Metadata:
+  template Metadata
+
+Mappings:
+  set of parameters
+Conditions:
+  set of Conditions
+
+Transform:
+  set of Transforms
+
+Recources:
+  set of Recources
+
+Outputs:
+  set of Outputs
