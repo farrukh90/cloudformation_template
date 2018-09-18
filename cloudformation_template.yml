@@ -1,5 +1,6 @@
 AWSTemplateFormatVersion: "Version Date"
   "Identifies the capability of the template"
+  "The latest template version is 2010-09-09"
 Description:
   String
 
