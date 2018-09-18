@@ -7,6 +7,7 @@ AWSTemplateFormatVersion: "Version Date"
 
 Description:
   String
+  This is optional it can be whatever I want
 
 Metadata:
   template Metadata
