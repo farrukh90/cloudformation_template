@@ -1,6 +1,9 @@
 AWSTemplateFormatVersion: "Version Date"
   "Identifies the capability of the template"
   "The latest template version is 2010-09-09"
+  "The value for the template format version declaration must be literal"
+  JSON: "AWSTemplateFormatVersion":"2010-09-09"
+  YAML: AWSTemplateFormatVersion: 2010-09-09
 Description:
   String
 
