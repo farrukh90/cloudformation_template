@@ -10,6 +10,8 @@ Description:
   This is optional it can be whatever I want
   Example: "This is dev environment"
 
+
+
 Metadata:
   template Metadata
   It is optional
@@ -19,7 +21,7 @@ Mappings:
 
 Parameters:
   Takes values for the stack creation
-  
+
 Conditions:
   set of Conditions
 
